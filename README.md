@@ -15,6 +15,6 @@ This project includes several parts:
 			
 	- 2. `Sequence Modelling`
 
-* __chatbot__: includes `Start chat`, `Change personality`,`Save chat log`,`End chatting` four parts
+* __Chatbot__: Implements the chatbot includes `Start chat`, `Change personality`,`Save chat log`,`End chatting` four parts
 
 ### ***Thanks for your reading!***
